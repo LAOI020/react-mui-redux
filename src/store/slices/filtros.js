@@ -1,0 +1,1 @@
+//En este archivo creas el slice que necesites para el componente de filtros

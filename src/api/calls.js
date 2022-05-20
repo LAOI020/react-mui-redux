@@ -1,0 +1,1 @@
+// En este archivo debes de almacenar las llamadas a la api, hazlo con axios o con fetch, da igual. Pero estas deben de ser configuradas en el index
